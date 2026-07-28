@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Live",
+  "description": "A high-performance, real-time cryptocurrency news and market intelligence platform with live Binance prices, CryptoCompare news feed, interactive 3D aesthetics, and subscriber portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
